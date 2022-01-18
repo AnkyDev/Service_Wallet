@@ -12,7 +12,7 @@
         android:label="krash_company"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDsex-BSQ8jdz4I0y7Dl89FoCch2Pw8Gs0"/>
+            android:value="NULL"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
